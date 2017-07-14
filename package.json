@@ -1,6 +1,6 @@
 {
     "name": "node-time-log",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "console.log() with a beautiful timestamp",
     "main": "index.js",
     "repository": "https://github.com/cesarferreira/time-log",
