@@ -2,7 +2,7 @@
 > `console.log()` with a beautiful timestamp
 
 <p align="center">
-	<img src="extras/ss3.png" width="100%" />
+	<img src="https://github.com/cesarferreira/node-time-log/raw/master/extras/ss3.png" width="100%" />
 </p>
 
 [![Build Status](https://travis-ci.org/cesarferreira/node-time-log.svg?branch=master)](https://travis-ci.org/cesarferreira/node-time-log)

@@ -3,7 +3,7 @@
     "version": "1.0.2",
     "description": "console.log() with a beautiful timestamp",
     "main": "index.js",
-    "repository": "https://github.com/cesarferreira/time-log",
+    "repository": "https://github.com/cesarferreira/node-time-log",
     "author": "Cesar Ferreira",
     "license": "MIT",
     "dependencies": {
