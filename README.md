@@ -21,8 +21,11 @@ $ yarn add node-time-log
 const log = require('node-time-log').SimpleLog;
 const info = require('node-time-log').CompleteLog;
 
-log(`I'm a simple log just with time`); // => 00:07:32 I'm a simple log just with time
-info(`I have date and time`); // => 14-07-2017 00:07:44 I have date and time
+log(`I'm a simple log just with time`); 
+// => 00:07:32 I'm a simple log just with time
+
+info(`I have date and time`); 
+// => 14-07-2017 00:07:44 I have date and time
 ```
 
 ## Created by
